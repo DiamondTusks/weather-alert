@@ -36,6 +36,6 @@ if will_rain:
         .create(
         body="It's going to rain today, remember to bring an umbrella ☔️",
         from_='+12133547621',
-        to='+61 406 579 199'
+        to=''
         )
     print(message.status)
